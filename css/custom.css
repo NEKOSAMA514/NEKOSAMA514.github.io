@@ -145,4 +145,10 @@
     transition: .3s;
     top: -8px
 }
+
+/* 翻页按钮居中 */
+#pagination {
+    width: 100%;
+    margin: auto;
+  }
   
