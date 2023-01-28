@@ -272,10 +272,10 @@ h6::before {
 ::-webkit-scrollbar-thumb {
   background-color: var(--theme-color);
   background-image: -webkit-linear-gradient(
-    45deg,
-    rgb(255, 255, 255) 25%,
+    0deg,
+    rgb(255, 255, 255) 75%,
     transparent 25%,
-    rgba(245, 147, 0, 0.904) 50%,    
+    rgba(245, 147, 0, 0.904) 75%,    
     transparent 50%,
     rgb(255, 255, 255) 75%,
     transparent 75%,
