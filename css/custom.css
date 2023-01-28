@@ -272,14 +272,13 @@ h6::before {
 ::-webkit-scrollbar-thumb {
   background-color: var(--theme-color);
   background-image: -webkit-linear-gradient(
-    45deg,
-    #66ccff 25%,
-    transparent 25%,
-    transparent 50%,
-    #66cc 50%,
-    #66ccff 75%,
-    transparent 75%,
-    transparent
+    #ffffff 25%,
+    rgba(247, 159, 77, 0.8) 25%,
+    #ffffff 50%,
+    rgba(247, 159, 77, 0.8) 50%,
+    #ffffff 75%,
+    rgba(247, 159, 77, 0.8) 75%,
+    #ffffff 100%
   );
   border-radius: 2em;
 }
